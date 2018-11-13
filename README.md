@@ -1,9 +1,9 @@
 # PIXELER
 BEFORE <br />
-![alt text] (https://github.com/SageTheWizard/pixeler/blob/master/wall.jpg)
+![Alt Text](https://github.com/SageTheWizard/pixeler/blob/master/wall.jpg)
 <br /> <br />
 AFTER (Pixel size: 50x50) <br />
-![alt text] (https://github.com/SageTheWizard/pixeler/blob/master/pixelized.jpg) <br />
+![Alt Text](https://github.com/SageTheWizard/pixeler/blob/master/pixelized.jpg) <br />
 
 Pixeler is a python script that takes an image as an input and turns it into pixel art<br /> 
 USAGE: Execute using "./pixeler [imageFile] [sizeOfPixels]" <br />

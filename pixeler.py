@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from PIL import Image
 import sys
+## TODO: Make a GUI version of this.. and for the CLI version make a cool progress bar
 
 ## Gets user input for location of image and size of desired pixelation
 ## Resizes image to ensure no rectangle pixels occur 

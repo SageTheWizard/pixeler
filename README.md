@@ -5,4 +5,8 @@ sizeOfPixels would be the NxN dimensions of the pixels of the output <br />
 NOTE:
 Allow the file to be executed with "chmod +x pixeler" .. and optionally move the file to /usr/local/bin to use as a normal program<br /><br /> 
 
-
+BEFORE <br />
+![alt text] (https://github.com/SageTheWizard/pixeler/blob/master/wall.jpg)
+<br /> <br />
+AFTER <br />
+![alt text] (https://github.com/SageTheWizard/pixeler/blob/master/pixelized.jpg)
